@@ -91,7 +91,6 @@ ul{
 
 
 /*New*/
-
 .new{
     background-color: #232323;
     padding: 15px;
@@ -111,4 +110,29 @@ ul{
     padding: 4px;
     height: 25px;
     width: 250px;
+}
+
+
+/*Business*/
+.box{
+    margin-top: 30px;
+}
+
+.box .box-item{
+    padding: 10px;
+    text-align: center;
+    width: 30%;
+    float: left;
+}
+
+.box .box-item img{
+    width: 90px;
+}
+
+/*footer*/
+.footer{
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    background-color: #e8491d;
 }
